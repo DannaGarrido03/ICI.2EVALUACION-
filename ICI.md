@@ -50,6 +50,48 @@ void main() {
 }
 
 
+**PRUEBA DE ESCRITORIO**
+
+
+![image](https://user-images.githubusercontent.com/113798749/198325475-d7827472-58a1-4b51-9156-147f543b4112.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198326411-8ca35a45-9c97-4fdc-a785-c59fccc65d2f.png)
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198326475-d0ccbc64-def9-4239-a5f4-9939d8beb109.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **DIAGRAMA 2**
@@ -107,6 +149,25 @@ void main() {
 
   print(suma);
 }
+
+
+**PRUEBA DE ESCRITORIO**
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328259-39905ef2-213b-4f60-83fb-2c9e2bddee18.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328345-73c21860-8066-4f51-b506-79f848dcb4b3.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328386-72ea3412-55a3-4f7a-89c2-1b6481236754.png)
 
 
 
@@ -170,6 +231,22 @@ void main() {
   print(suma);
 }
 
+
+**PRUEBA DE ESCRITORIO**
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328736-545e824d-3bea-423d-932b-c29619034ff5.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328813-0a34d3d9-c560-4881-8150-623b72087eaa.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198328941-4f888aba-4602-4425-8f81-dadd0014fd6f.png)
 
 
 
@@ -236,6 +313,23 @@ void main() {
 
   print(array);
 }
+
+
+**PRUEBA DE ESCRITORIO**
+
+
+![image](https://user-images.githubusercontent.com/113798749/198329169-88bf143d-56b8-4cbe-b0ab-35834473256c.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198329227-6e03aef4-c4bc-4d3a-a865-f7984326bbf0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198329301-495224ba-bebe-41a3-9859-597f950c2210.png)
+
+
+
 
 
 
@@ -306,6 +400,25 @@ void main() {
 }
 
 
+**PRUEBA DE ESCRITORIO**
+
+![image](https://user-images.githubusercontent.com/113798749/198329899-1bc8056f-b3bf-43be-b607-0ce5f1ceec64.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198329971-c8f023b3-1b0d-4bf2-a10e-7ae08eaea315.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198330043-8938503b-e112-47a1-9916-44bff2739d34.png)
+
+
+
+
+
+
+
+
 
 **DIAGRAMA 6**
 
@@ -363,6 +476,21 @@ void main() {
 
   print(array);
 }
+
+
+
+
+**PRUEBA DE ESCRITORIO**
+
+![image](https://user-images.githubusercontent.com/113798749/198330820-93ecbe23-0565-41f5-8efc-bfad67650a32.png)
+
+
+![image](https://user-images.githubusercontent.com/113798749/198330894-af15e030-3b8f-405e-8ece-d0950bea94dc.png)
+
+
+
+![image](https://user-images.githubusercontent.com/113798749/198331015-3658cf6d-d3c4-4bad-a645-ff8bb0a258a7.png)
+
 
 
 
@@ -440,6 +568,16 @@ void main() {
 }
 
 
+**PRUEBA DE ESCRITORIO**
+
+
+![image](https://user-images.githubusercontent.com/113798749/198332434-72dfa42a-d04c-4489-b907-74567a990f13.png)
+
+
+![image](https://user-images.githubusercontent.com/113798749/198332479-a1ddf97c-6969-4c06-a57f-01d347a88d57.png)
+
+
+![image](https://user-images.githubusercontent.com/113798749/198332744-1ed4ae16-c447-4eb2-9929-56870f60c59e.png)
 
 
 
@@ -590,6 +728,32 @@ void main() {
   print('la calificacion mas alta es $cal2');
   print('la cantidad de reprobados son $contr');
 }
+
+
+**PRUEBA DE ESCRITORIO**
+
+
+![image](https://user-images.githubusercontent.com/113798749/198332999-36a2b2b9-a27a-4c11-a308-338c5968f222.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
