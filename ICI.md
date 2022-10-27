@@ -382,6 +382,7 @@ void main() {
 
 
 **CODIGO**
+
 //Almacene en un vector de tamaño 10 todos los numeros pares capturados hasta completar todos DoWhile
 import 'dart:io';
 import 'dart:async';
